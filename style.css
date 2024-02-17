@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 180px;
+    background-color: #f0f2f5;
+}
+#face{
+    color: hwb(240 31% 0%);
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 60px; 
+   
+
+}
+.txt{
+    font-size: 29px;
+    line-height: 28px;
+    width: auto;
+    margin-top: -20px;
+    
+}
+
+form{
+    background-color: #ffff;
+    width: 340px;
+    height: 300px;
+    float: right;
+    position: relative;
+    top: -200px;
+    border-radius: 15px;
+}
+.put{
+    align-items: center; /* Alinha verticalmente no centro */
+    justify-content: center; /* Alinha horizontalmente no centro */
+    text-align: center;
+    margin-top: 120px;
+    
+}
+.put {
+    align-items: center; /* Alinha verticalmente no centro */
+    justify-content: center; /* Alinha horizontalmente no centro */
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 10px;
+    height: 200px;
+  }
+  
+  .put input {
+    width: 300px; 
+    height: 40px; 
+    margin: 5px;
+    border-radius: 4px;
+  }
+  .button{
+    color: white;
+    background-color: rgb(29, 61, 241);
+    width: 300px;
+    height: 40px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4px;
+    border-radius: 4px;
+  }
+  .butt{
+    float: left;
+    background-color: rgb(18, 209, 18);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    margin-left: 100px;
+    border-radius: 4px;
+  }
+  .texto{
+    font-size: 19px;
+   
+  }
+  a{
+    text-decoration: dashed;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .bt{
+    color: white;
+    text-decoration: none;
+  }
+  .bt:hover{
+    text-decoration: none;
+  }
+  .inic{
+    margin-top: 100px;
+    font-size: 17px;
+
+  }
